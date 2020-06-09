@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mateo Difranco
-  tagline: Fullstack Developer en EduAnalytica
+  tagline: Fullstack Developer. EduAnalytica.
   date_format: "%-d %b, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
